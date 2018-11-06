@@ -1,4 +1,4 @@
-# Website Templae for Car racing team
+# Website Template for Car racing team
 
 Simple website template for car racing team .
 
